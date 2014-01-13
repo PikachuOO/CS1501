@@ -16,12 +16,16 @@ So I am aware that there is a ride range of CS experience in the room. Some of y
 Links
 ---
 
-**Node
+**Node**
 * <a href="http://www.nodebeginner.org/">Node Beginner Book</a>
 * <a href="http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/">NetTuts: Node.js for beginners</a>
 * <a href="http://expressjs.com/">Express Web Framework</a>
 
-**MongoDB
+**Javascript**
+* <a href="http://eloquentjavascript.net/contents.html">Eloquent Javascript</a>
+  * This is really a great, free resource to learn javascript and I highly recommend reading it
+
+**MongoDB**
 * <a href="http://mongodb.github.io/node-mongodb-native/api-articles/nodekoarticle1.html">A Basic Introduction</a>
 * <a href="http://www.bloomberg.com/news/2013-10-04/mongodb-becomes-king-of-nyc-startups-with-1-2-billion-valuation.html">MongoDB named king of NY Startups</a>
 
