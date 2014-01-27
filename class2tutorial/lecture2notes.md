@@ -49,3 +49,13 @@ V2
 	* Show them the express documentation
 * If we are completely finished with v2 and have time. Stop and take questions
 * If we have no questions and still have time begin to show them how to push this thing to heroku
+
+Heroku
+
+* Create an account on heroku.com
+* Install the toolbelt on your ubuntu vagrant box using:
+	* wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+* Login using by typeing 'heroku login' and enter your credentials
+* Create a processfile using Procfile and write
+	* web: node server.js
+* make sure your app

@@ -23,12 +23,12 @@ app.configure(function() {
 // These 3 lines tell express that we are going to be rendering html files
 // held in the public directory which should be in the same directory as this
 // file.
-app.set('views', './public')
+app.set('views', path.normalize(__dirname)+'/public')
 app.set('view engine', 'html')
 app.engine('html', require('ejs').renderFile)
 
 // Set the port for the server to listen for requests
-var port = 8000;
+var port = Number(process.env.PORT || 5000);
 
 // Actually start listening on that port
 app.listen(port);
