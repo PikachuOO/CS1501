@@ -28,7 +28,7 @@ app.set('view engine', 'html')
 app.engine('html', require('ejs').renderFile)
 
 // Set the port for the server to listen for requests
-var port = Number(process.env.PORT || 5000);
+var port = Number(process.env.PORT || 8000);
 
 // Actually start listening on that port
 app.listen(port);
