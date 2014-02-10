@@ -8,7 +8,7 @@ Heroku
 * Create a processfile using Procfile and write
 	* web: node server.js
 * Change how the value of your var port in server.js to be:
-	* var port = Number(process.env.PORT || 5000);
+	* var port = Number(process.env.PORT || 8000);
 * make sure your app is in a git repo (git status will tell you)
 * Type heroku create <your-app-name-without-these-brackets>
 * Make sure you have the engines flag in your package.json file
