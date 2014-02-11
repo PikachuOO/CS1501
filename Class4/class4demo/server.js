@@ -26,6 +26,6 @@ app.engine('html', require('ejs').renderFile);
 
 
 
-var port = 8000;
-app.listen(8000);
+var port = Number(process.env.PORT || 8000);
+app.listen(port);
 console.log("App listening on port: " + port);
