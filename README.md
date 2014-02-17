@@ -3,6 +3,8 @@ CS1501
 
 Welcome to CS 1501 for Spring 2014!
 
+Find the course screencasts and other resources at: <a href="http://mlp5ab.github.io/CS1501/">http://mlp5ab.github.io/CS1501/</a>
+
 I will put course related documents on this page so that you guys can download them and/or view them as needed.
 
 New to Github? Read this <a href="http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/">What Exactly Is GitHub Anyway?</a>
