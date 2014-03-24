@@ -1,1 +1,0 @@
-exports.haiku = "I wake, reluctant;<br>Too cold to get out of bed<br>But I need to pee."
